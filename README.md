@@ -1,8 +1,10 @@
 ## clinical:ui-vocabulary
 
+version of this repo removing dependency on specific less version
+
+## clinical:ui-vocabulary
 
 Package to provide semantic CSS classes to your app.  Based on Bootstrap3.  
-
 
 =========================
 #### Installation
