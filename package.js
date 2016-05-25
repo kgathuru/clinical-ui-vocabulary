@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@1.0');
-  api.use('less');
+  api.use('less@2.6.0');
   api.use('ian:bootstrap-3@3.3.1');
 
   api.addFiles('anchoring.less', 'client');
